@@ -1,7 +1,6 @@
 {
   "name": "restaurant-tracker",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,14 @@
     "express": "^4.16.4",
     "jquery": "^3.4.0",
     "pg": "^7.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konouvang/delete-put-lecture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konouvang/delete-put-lecture/issues"
+  },
+  "homepage": "https://github.com/konouvang/delete-put-lecture#readme",
+  "description": ""
 }
